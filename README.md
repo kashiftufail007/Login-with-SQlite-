@@ -66,7 +66,7 @@ Cursor cursor = db.alldata();
 ```java
 for (int i=0 ; i<cursor.getCount();i++)
  
- if ((ema.equals(cursor.getString(2).toString())) && (pass.equals(cursor.getString(3).toString()))) </code>
+ if ((ema.equals(cursor.getString(2).toString())) && (pass.equals(cursor.getString(3).toString())))
 ```
 
 ### Author
